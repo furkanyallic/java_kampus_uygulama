@@ -37,3 +37,9 @@ This project was originally developed as a group collaboration by students at **
 This repository represents a personal version of the project that highlights my individual contributions.
 
 The project was completed as a **second-year university term project**.
+
+## Screenshots
+
+
+<img width="300" height="429" alt="image" src="https://github.com/user-attachments/assets/9e4bb489-bf97-4433-9bec-3137c8c65302" />
+Figure 1:Login page                     
