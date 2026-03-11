@@ -42,4 +42,6 @@ The project was completed as a **second-year university term project**.
 
 
 <img width="300" height="429" alt="image" src="https://github.com/user-attachments/assets/9e4bb489-bf97-4433-9bec-3137c8c65302" />
-Figure 1:Login page                     
+Login page                     
+<img width="221" height="448" alt="image" src="https://github.com/user-attachments/assets/54483504-114c-4997-81de-aff4363aacb5" />
+Announcement Page
