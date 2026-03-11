@@ -45,8 +45,7 @@ The project was completed as a **second-year university term project**.
 <table>
 <tr>
 <td align="center">
-<img src="<img width="284" height="446" alt="image" src="https://github.com/user-attachments/assets/dab3694b-0c05-41f4-baea-72d263cd59fc" />
-" width="250"><br>
+<img src="https://github.com/user-attachments/assets/dab3694b-0c05-41f4-baea-72d263cd59fc" width="250"><br>
 Login Page
 </td>
 
